@@ -1,0 +1,27 @@
+Instrucciones para Proyecto educationals
+
+POSTGRESQL DATABASES
+1.Crear Base de Datos con el nombre educationals;
+2.Guardar password o contraseña de postgresql porque la vamos a usar para 
+la comunicacion con el Backend su configuracion.
+3.importar script que esta en esta carpeta donde esta la creacion de las tablas para la
+base datos.
+
+
+BACKEND JAVA SPRING BOOT
+
+1.Tener instalado un IDE para java el cual abrimos la carpeta de backend educationals
+2. Buscamos en la carpeta src/main/java/application.properties, aqui es donde colocaremos
+el nombre de la base de datos creada anteriormente educationals y la contraseña.
+3. Ejecutar Run para Activar los servicios del backend.
+
+FRONTEND REACT.JS
+ 
+1.Abrir el proyecto de react.
+2. instalar los modulos, paquetes ejecutando en la consola de comandos npm i, al terminar
+de instalar, ejecutamos el comando npm start, para cargar el servidor con el navegador el cual nos
+abre predermitado con el navegador, o nos muestra la siguiente url http://localhost:3000/, la cual podemos
+copiar a nuestro navegador para poder utilizar el proyecto.
+3. Iniciar Sesion para poder interactuar con el aplicativo.
+
+
