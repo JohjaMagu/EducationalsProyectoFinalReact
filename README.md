@@ -1,19 +1,19 @@
-## 🚀 Proyecto frontend desarrollado en React como trabajo final del diplomado
-
-El enfoque principal fue la arquitectura de componentes, manejo de estado,
-consumo de servicios backend y buenas prácticas en desarrollo frontend.
+## 🚀 Aplicación frontend desarrollada en React
+La aplicación está enfocada en la arquitectura de componentes, manejo de estado, consumo de servicios backend y buenas prácticas en desarrollo frontend.
 
 ## 📌 Descripción
-Aplicación web desarrollada en React.  
-El backend fue provisto por el docente (Java) y mi responsabilidad fue el
-desarrollo completo del frontend.
+Aplicación web desarrollada en React.
+El backend fue provisto por un servicio externo (Java) y mi responsabilidad fue
+el desarrollo completo del frontend, incluyendo lógica de negocio, consumo de servicios
+y navegación entre vistas.
+
 
 ## 🛠️ Tecnologías
 - React
 - JavaScript
 - HTML
 - Bootstrap / CSS
-- Consumo de servicios backend
+- Consumo de servicios backend (API REST)
 
 ## 🎯 Funcionalidades
 - Login de usuarios
@@ -65,4 +65,6 @@ desarrollo completo del frontend.
 [Enlace al video](https://drive.google.com/file/d/1Qc6MkLfs-4AqhY8riYVj89b0zICpAn78/view)
 
 ## 🧠 Nota
-Proyecto académico orientado al fortalecimiento de habilidades en desarrollo frontend con React.
+Proyecto desarrollado en un contexto académico como parte de un proceso de formación,
+orientado a la aplicación práctica de conceptos de desarrollo frontend con React.
+
